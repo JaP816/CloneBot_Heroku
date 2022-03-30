@@ -1,9 +1,9 @@
 {
 	"name": "CloneBot",
 	"description": "CloneBot",
-	"repository": "https://github.com/MsGsuite/CloneBot",
+	"repository": "https://github.com/JaP816/CloneBot_Heroku",
 	"keywords": ["Gclone","TG"],
-	"repository": "https://github.com/MsGsuite/CloneBot",
+	"repository": "https://github.com/JaP816/CloneBot_Heroku",
         "website": "https://t.me/msgsuitechat",
         "success_url": "https://github.com/MsGsuite/CloneBot/blob/master/README.md",
 	"env": {
